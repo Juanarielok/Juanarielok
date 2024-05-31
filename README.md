@@ -161,49 +161,7 @@ Thank you for taking the time to get to know me!</p>
 
 <h1 align="center">Main Projects</h1>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/to-do-list">To-Do List</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/to-do-list/"><img width="30%" src="https://gcdnb.pbrd.co/images/JUPrt1Q27DjU.png?o=1" alt="Project-preview" /></a>
-      <br>
-      <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
-      <p>:us: To-do list application. The user can change the order of the list items, mark them as completed, or delete them.</p>
-      <p>:brazil: Aplicação de lista de tarefas. O usuário pode mudar a ordem dos items, marcá-los como concluídos ou deletá-los.</p>
-    </td>
 
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/anotherproject">Another Project</a></h2>
-      <a href="https://anotherproject.github.io/"><img width="30%" src="https://example.com/anotherproject.png" alt="Another-project-preview" /></a>
-      <br>
-      <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> Technology 1, Technology 2, Technology 3</em></p>
-      <p>:us: Description of the project in English.</p>
-      <p>:brazil: Descrição do projeto em Português.</p>
-    </td>
-  </tr>
-</table>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Cube of Boxes</title>
-<style>
-    table {
-        border-collapse: collapse;
-        margin: auto;
-    }
-    td {
-        width: 100px;
-        height: 100px;
-        border: 1px solid black;
-    }
-</style>
-</head>
-<body>
 <table>
     <tr>
         <td>Box 1</td>
