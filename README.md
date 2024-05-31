@@ -163,7 +163,7 @@ Thank you for taking the time to get to know me!</p>
 
 <table>
 <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="30%">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/to-do-list">To-Do List</a></h2>
       <a href="https://raphaelalmeidamartins.github.io/to-do-list/"><img width="30%" src="https://gcdnb.pbrd.co/images/JUPrt1Q27DjU.png?o=1" alt="Project-preview" /></a>
       <br>
@@ -174,10 +174,7 @@ Thank you for taking the time to get to know me!</p>
     </td>
 
   </tr>
-  <tr>
-  
 
-  </tr>
 </table>
 <br>
 
