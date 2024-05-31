@@ -162,8 +162,11 @@ Thank you for taking the time to get to know me!</p>
 <h1 align="center">Main Projects</h1>
 
 <table>
+  
   <tr>
-    
+ 
+
+ 
     <td valign="top" width="50%">
       <h2 align="center"><a href="">Fish Manager</a></h2>
       <a href="https://github.com/Juanarielok/Fish-Manager-2021/"><img width="100%" src=" https://gcdnb.pbrd.co/images/JUPrt1Q27DjU.png?o=1 " alt="Project-preview" /></a>
@@ -171,17 +174,6 @@ Thank you for taking the time to get to know me!</p>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> C#, XML </em></p>
       <p>FISH MANAGER 2021 beta version.</p>
     
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/fullstack-bank">Full Stack Bank</a></h2>
-      <a href="https://github.com/raphaelalmeidamartins/fullstack-bank"><img width="100%" src="./imagens/fullstack-bank.png" alt="Project-preview" /></a>
-      <br>
-      <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> Next.js, Sass, TypesCript, Node.js, Express.js, PostgreSQL, Sequelize.js, Docker, Cypress, Mocha, Chai, Sinon Swagger UI</em></p>
-      <p>:us: Full stack digital wallet application developed with Next.js and Node.js</p>
-      <p>:brazil: Aplicação full stack dockerizada de carteira digital desenvolida em Next.js e Node.js</p>
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/hackathon-trybe-wine">Wine Landing Page</a></h2>
