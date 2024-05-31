@@ -25,30 +25,21 @@ function contatcMe() {
 }
 ```
 
-<br>
-:us:
+
+
 <p>I'm a Software Engineer, currently working as a technology agent at Banco do Brasil in the DITEC (Technology Directorate). My unit is responsible for engineering, building, and maintaining software for the institution's products and services, as well as internal systems.</p>
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+  <a href="https://www.linkedin.com/in/juan-ariel-ortiz-/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
   <a href="mailto:juanarielok@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   
   <a href="        /" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portolio"></a> 
 </div>
-<br>
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <img width="100%" src="https://media.tenor.com/yGH5RwRTBwEAAAAj/stars-glitter.gif"" alt="2020" />
-    </td>
-    <td valign="top" width="50%">
-      <img width="100%" src=" https://media.tenor.com/yGH5RwRTBwEAAAAj/stars-glitter.gif "" alt="2021" />
-    </td>
-  </tr>
-</table>
-<br>
+
+
+
 
 
 
@@ -160,10 +151,9 @@ function contatcMe() {
   />
 </div>
 
-<br>
-<br>
 
-![divider](./imagens/divider.png)
+
+
 
 <h1 align="center">Main Projects</h1>
 
