@@ -161,25 +161,6 @@ Thank you for taking the time to get to know me!</p>
 
 <h1 align="center">Main Projects</h1>
 
-
-   table {
-        border-collapse: collapse;
-        margin: auto;
-    }
-    td {
-        width: 200px;
-        height: 200px;
-        border: 1px solid black;
-        text-align: center;
-        vertical-align: middle;
-    }
-    img {
-        max-width: 100%;
-        max-height: 100%;
-    }
-</style>
-</head>
-<body>
 <table>
     <tr>
         <td>
@@ -206,5 +187,3 @@ Thank you for taking the time to get to know me!</p>
         </td>
     </tr>
 </table>
-</body>
-</html>
