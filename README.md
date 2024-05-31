@@ -160,6 +160,33 @@ Thank you for taking the time to get to know me!</p>
 
 
 <h1 align="center">Main Projects</h1>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Table</title>
+    <style>
+        /* Center the table horizontally */
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        table {
+            border-collapse: collapse;
+        }
+        td {
+            border: 1px solid black;
+            padding: 10px;
+        }
+        h3 {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
 
 <table>
     <tr>
@@ -187,3 +214,6 @@ Thank you for taking the time to get to know me!</p>
         </td>
     </tr>
 </table>
+
+</body>
+</html>
