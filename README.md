@@ -23,9 +23,9 @@ function contatcMe() {
 
 
 <p style="  @font-face {
-      font-family: 'National Condensed';
+      style="font-family: Times New Roman;"
       src: url('path/to/national-condensed.woff2') format('woff2'), /* Modern Browsers */
-           url('path/to/national-condensed.woff') format('woff');   /* Legacy Browsers */
+       
       font-weight: normal;
       font-style: normal;
     }
