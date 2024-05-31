@@ -20,8 +20,15 @@ function contatcMe() {
 
 
 
-![I am Software Engineer](https://gcdnb.pbrd.co/images/ecg9yfIgCPZD.png?o=1)
+<P style="font-weight: bold; font-style: italic;"> 🌟 Hello! I’m Juan Ariel, a passionate developer with a degree in Systems Analysis, specializing in frontend development. Are you looking for a dedicated, experienced professional eager for new challenges?
 
+💼 After a year of active searching, I am excited to find the next step in my career. Throughout my journey, I have had the privilege of working on various frontend projects, both professional and personal, where I have demonstrated my technical skills and my ability to adapt to new technologies.
+
+💡 My goal is to continue growing and specializing in frontend development, where I find the perfect blend of creativity and functionality. I am open to both remote and on-site opportunities, as long as I can add value and continue learning in the process.
+
+🚀 If you are looking for a committed professional with solid technical knowledge and a passion for frontend development, please do not hesitate to contact me! I am eager to contribute to the success of your team and take our projects to the next level.
+
+Thank you for taking the time to get to know me!</P>
 
 
 
