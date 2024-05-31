@@ -163,18 +163,10 @@ Thank you for taking the time to get to know me!</p>
 
 <table>
   <tr>
+    
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/sonic-trumps">Sonic Trumps</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/sonic-trumps/"><img width="100%" src="./imagens/sonic-trumps.png" alt="Project-preview" /></a>
-      <br>
-      <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Redux, React Router v6, HTML, CSS, Sass, JavaScript</em></p>
-      <p>:us: Top Trumps-style card game with Sonic characters</p>
-      <p>:brazil: Jogo estilo Super Trunfo com personagens da série Sonic</p>
-    </td>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/raphaelalmeidamartins.github.io">Portfolio</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/"><img width="100%" src="./imagens/portfolio.png" alt="Project-preview" /></a>
+      <h2 align="center"><a href="">Fish Manager</a></h2>
+      <a href="/"><img width="100%" src="  " alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Material UI, JavaScript</em></p>
@@ -212,59 +204,12 @@ Thank you for taking the time to get to know me!</p>
       <p>:us: To-do list application. The user can change the order of the list items, mark them as completed, or delete them.</p>
       <p>:brazil: Aplicação de lista de tarefas. O usuário pode mudar a ordem dos items, marcá-los como concluídos ou deletá-los.</p>
     </td>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trivia">Trivia</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/trivia/"><img width="100%" src="./imagens/trivia.png" alt="Project-preview" /></a>
-      <br>
-      <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
-      <p>:us: Trivia game React application using a public API</p>
-      <p>:brazil: Jogo de trivia desenvolvido em React usando uma API pública</p>
-    </td>
+
   </tr>
   <tr>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/mongodb-car-shop">MongoDB Car Shop</a></h2>
-      <a href="https://github.com/raphaelalmeidamartins/mongodb-car-shop"><img width="100%" src="./imagens/car-shop.png" alt="Project-preview" /></a>
-      <br>
-      <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> TypeScript, Node.js, Express.js, MongoDB, Mongoose, Mocha, Chai, Sinon</em></p>
-      <p>:us: RESTful API developed with with MongoDB database using OOP and SOLID principles.</p>
-      <p>:brazil: API RESTful desenvolvida com o banco de dados MongoDB utilizando princípios POO e SOLID.</p>
-    </td>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/tests-with-react-testing-library">Tests with RTL</a></h2>
-      <a href="https://github.com/raphaelalmeidamartins/tests-with-react-testing-library"><img width="100%" src="./imagens/test-with-rtl.png" alt="Project-preview" /></a>
-      <br>
-      <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
-      <p>:us: Front-end testing project with React Testing Library.</p>
-      <p>:brazil: Projeto de testes no Front-end com a React Testing Library.</p>
-    </td>
+  
+
   </tr>
 </table>
 <br>
 
-![divider](./imagens/divider.png)
-
-<h1 align="center">GitHub Statistics</h1>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=raphaelalmeidamartins&count_private=true&show_icons=true&theme=dracula" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelalmeidamartins&layout=compact&theme=dracula&langs_count=10&hide=shell,less,dockerfile,jinja" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img align="center" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=raphaelalmeidamartins&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
-  <br>
-  <br>
-  <div>
-    <p>Profile views since 11/21/2021:</p>
-    <p><img alingn="center" src="https://profile-counter.glitch.me/raphaelalmeidamartins/count.svg"></p>
-  </div>
-</div>
-
-![divider](./imagens/divider.png)
