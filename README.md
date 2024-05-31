@@ -161,7 +161,8 @@ Thank you for taking the time to get to know me!</p>
 
 <h1 align="center">Main Projects</h1>
 <div style="text-align: center;">
-    <table style="margin: 0 auto;">
+<table style="margin: 0 auto; vertical-align: middle;">
+
         <tr>
             <td>
                 <div style="text-align: center;">
