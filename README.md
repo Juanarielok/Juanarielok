@@ -161,30 +161,39 @@ Thank you for taking the time to get to know me!</p>
 
 <h1 align="center">Main Projects</h1>
 <div style="text-align: center;">
-    <table style="margin: 0 auto; text-align: left;">
+    <table style="margin: 0 auto;">
         <tr>
             <td>
-                <h3>Title 1</h3>
-                <img src="image1.jpg" alt="Image 1">
-                <p>Subtitle 1</p>
+                <div style="text-align: center;">
+                    <h3>Title 1</h3>
+                    <img src="image1.jpg" alt="Image 1">
+                    <p>Subtitle 1</p>
+                </div>
             </td>
             <td>
-                <h3>Title 2</h3>
-                <img src="image2.jpg" alt="Image 2">
-                <p>Subtitle 2</p>
+                <div style="text-align: center;">
+                    <h3>Title 2</h3>
+                    <img src="image2.jpg" alt="Image 2">
+                    <p>Subtitle 2</p>
+                </div>
             </td>
         </tr>
         <tr>
             <td>
-                <h3>Title 3</h3>
-                <img src="image3.jpg" alt="Image 3">
-                <p>Subtitle 3</p>
+                <div style="text-align: center;">
+                    <h3>Title 3</h3>
+                    <img src="image3.jpg" alt="Image 3">
+                    <p>Subtitle 3</p>
+                </div>
             </td>
             <td>
-                <h3>Title 4</h3>
-                <img src="image4.jpg" alt="Image 4">
-                <p>Subtitle 4</p>
+                <div style="text-align: center;">
+                    <h3>Title 4</h3>
+                    <img src="image4.jpg" alt="Image 4">
+                    <p>Subtitle 4</p>
+                </div>
             </td>
         </tr>
     </table>
 </div>
+
