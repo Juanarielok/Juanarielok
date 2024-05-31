@@ -1,6 +1,6 @@
 ### Hi there 👋, My name's Juan Ariel Ortiz Iacampo
 #### I am Software Engineer
-![I am Software Engineer](https://pasteboard.co/NMB4dEbaZZ9b.png)
+![I am Software Engineer](https://gcdnb.pbrd.co/images/NMB4dEbaZZ9b.png?o=1)
 
 I'm from Argentina, Mar del Plata city.
 
