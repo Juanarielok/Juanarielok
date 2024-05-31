@@ -20,10 +20,21 @@ function contatcMe() {
 
 
 
+ <style>
+    @font-face {
+      font-family: 'National Condensed';
+      src: url('path/to/national-condensed.woff2') format('woff2'), /* Modern Browsers */
+           url('path/to/national-condensed.woff') format('woff');   /* Legacy Browsers */
+      font-weight: normal;
+      font-style: normal;
+    }
+    body {
+      font-family: 'National Condensed', sans-serif;
+    }
+  </style>
 
 
-
-<p>🌟 Hello! I’m Juan Ariel, a passionate developer with a degree in Systems Analysis, specializing in frontend development. Are you looking for a dedicated, experienced professional eager for new challenges?
+<p style="font-family: 'National Condensed', sans-serif;">🌟 Hello! I’m Juan Ariel, a passionate developer with a degree in Systems Analysis, specializing in frontend development. Are you looking for a dedicated, experienced professional eager for new challenges?
 
 💼 After a year of active searching, I am excited to find the next step in my career. Throughout my journey, I have had the privilege of working on various frontend projects, both professional and personal, where I have demonstrated my technical skills and my ability to adapt to new technologies.
 
