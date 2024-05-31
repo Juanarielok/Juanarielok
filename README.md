@@ -1,13 +1,6 @@
 
 ![I am Software Engineer](https://gcdnb.pbrd.co/images/NMB4dEbaZZ9b.png?o=1)
 
-I'm from Argentina, Mar del Plata city.
-
-Skills: TypeScript / JavaScript / Python / HTML5 / CSS / SASS / C# / React / Angular / NextJS / Visual Studio / Atom / Postman / SQL Workbench / npm / git / IBM Cloud / Google Cloud / AWS / Jest / React Testing Library / Cypress 
-
-
-
-
 
 ```JavaScript
 const aboutMe = {
@@ -27,7 +20,15 @@ function contatcMe() {
 
 
 
-<p>I'm a Software Engineer, currently working as a technology agent at Banco do Brasil in the DITEC (Technology Directorate). My unit is responsible for engineering, building, and maintaining software for the institution's products and services, as well as internal systems.</p>
+<p>🌟 Hello! I’m Juan Ariel, a passionate developer with a degree in Systems Analysis, specializing in frontend development. Are you looking for a dedicated, experienced professional eager for new challenges?
+
+💼 After a year of active searching, I am excited to find the next step in my career. Throughout my journey, I have had the privilege of working on various frontend projects, both professional and personal, where I have demonstrated my technical skills and my ability to adapt to new technologies.
+
+💡 My goal is to continue growing and specializing in frontend development, where I find the perfect blend of creativity and functionality. I am open to both remote and on-site opportunities, as long as I can add value and continue learning in the process.
+
+🚀 If you are looking for a committed professional with solid technical knowledge and a passion for frontend development, please do not hesitate to contact me! I am eager to contribute to the success of your team and take our projects to the next level.
+
+Thank you for taking the time to get to know me!</p>
 
 
 <div align="center">
