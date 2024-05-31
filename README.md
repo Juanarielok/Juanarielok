@@ -20,6 +20,9 @@ function contatcMe() {
 
 
 
+
+
+
 <p>🌟 Hello! I’m Juan Ariel, a passionate developer with a degree in Systems Analysis, specializing in frontend development. Are you looking for a dedicated, experienced professional eager for new challenges?
 
 💼 After a year of active searching, I am excited to find the next step in my career. Throughout my journey, I have had the privilege of working on various frontend projects, both professional and personal, where I have demonstrated my technical skills and my ability to adapt to new technologies.
