@@ -162,33 +162,10 @@ Thank you for taking the time to get to know me!</p>
 <h1 align="center">Main Projects</h1>
 
 <table>
-  
-  <tr>
- 
-
- 
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="">Fish Manager</a></h2>
-      <a href="https://github.com/Juanarielok/Fish-Manager-2021/"><img width="100%" src=" https://gcdnb.pbrd.co/images/JUPrt1Q27DjU.png?o=1 " alt="Project-preview" /></a>
-     
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> C#, XML </em></p>
-      <p>FISH MANAGER 2021 beta version.</p>
-    
-    </td>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/hackathon-trybe-wine">Wine Landing Page</a></h2>
-      <a href="https://raphaelmartins.dev/hackathon-trybe-wine/#/"><img width="100%" src="./imagens/hackathon.png" alt="Project-preview" /></a>
-      <br>
-      <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional-based components), Redux, Redux Toolkit, Redux thunk, HTML, CSS, Styled Components, Material UI, JavaScript, Mobile First</em></p>
-      <p>:us: React landing page developed with React for the Hackathon promoted by Trybe and Wine</p>
-      <p>:brazil: Landing page desenvolvida em React para o Hackathon organizado pela Trybe em parceria com a empresa Wine</p>
-    </td>
-  </tr>
-  <tr>
+<tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/to-do-list">To-Do List</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/to-do-list/"><img width="100%" src="./imagens/to-do-list.png" alt="Project-preview" /></a>
+      <a href="https://raphaelalmeidamartins.github.io/to-do-list/"><img width="100%" src="https://gcdnb.pbrd.co/images/JUPrt1Q27DjU.png?o=1" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
