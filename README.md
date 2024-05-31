@@ -162,16 +162,49 @@ Thank you for taking the time to get to know me!</p>
 <h1 align="center">Main Projects</h1>
 
 
+   table {
+        border-collapse: collapse;
+        margin: auto;
+    }
+    td {
+        width: 200px;
+        height: 200px;
+        border: 1px solid black;
+        text-align: center;
+        vertical-align: middle;
+    }
+    img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+</style>
+</head>
+<body>
 <table>
     <tr>
-        <td>Box 1</td>
-        <td>Box 2</td>
+        <td>
+            <h3>Title 1</h3>
+            <img src="image1.jpg" alt="Image 1">
+            <p>Subtitle 1</p>
+        </td>
+        <td>
+            <h3>Title 2</h3>
+            <img src="image2.jpg" alt="Image 2">
+            <p>Subtitle 2</p>
+        </td>
     </tr>
     <tr>
-        <td>Box 3</td>
-        <td>Box 4</td>
+        <td>
+            <h3>Title 3</h3>
+            <img src="image3.jpg" alt="Image 3">
+            <p>Subtitle 3</p>
+        </td>
+        <td>
+            <h3>Title 4</h3>
+            <img src="image4.jpg" alt="Image 4">
+            <p>Subtitle 4</p>
+        </td>
     </tr>
 </table>
 </body>
 </html>
-
