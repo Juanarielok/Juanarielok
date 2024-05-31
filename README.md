@@ -160,16 +160,4 @@ Thank you for taking the time to get to know me!</p>
 
 
 <h1 align="center">Main Projects</h1>
-<div class="center">
-  <table border="1">
-    <tr>
-      <td>Item 1</td>
-      <td>Item 2</td>
-      <td>Item 3</td>
-      <td>Item 4</td>
-    </tr>
-  </table>
-</div>
 
-</body>
-</html>
