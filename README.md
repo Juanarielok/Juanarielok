@@ -166,12 +166,11 @@ Thank you for taking the time to get to know me!</p>
     
     <td valign="top" width="50%">
       <h2 align="center"><a href="">Fish Manager</a></h2>
-      <a href="/"><img width="100%" src="  " alt="Project-preview" /></a>
-      <br>
-      <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Material UI, JavaScript</em></p>
-      <p>:us: My personal portfolio.</p>
-      <p>:brazil: Meu portfólio pessoal.</p>
+      <a href="https://github.com/Juanarielok/Fish-Manager-2021/"><img width="100%" src=" https://gcdnb.pbrd.co/images/JUPrt1Q27DjU.png?o=1 " alt="Project-preview" /></a>
+     
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> C#, XML </em></p>
+      <p>FISH MANAGER 2021 beta version.</p>
+    
     </td>
   </tr>
   <tr>
