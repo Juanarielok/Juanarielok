@@ -163,7 +163,17 @@ Thank you for taking the time to get to know me!</p>
 
 <table>
 <tr>
-    <td valign="top" width="30%">
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/to-do-list">To-Do List</a></h2>
+      <a href="https://raphaelalmeidamartins.github.io/to-do-list/"><img width="30%" src="https://gcdnb.pbrd.co/images/JUPrt1Q27DjU.png?o=1" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
+      <p>:us: To-do list application. The user can change the order of the list items, mark them as completed, or delete them.</p>
+      <p>:brazil: Aplicação de lista de tarefas. O usuário pode mudar a ordem dos items, marcá-los como concluídos ou deletá-los.</p>
+    </td>
+
+        <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/to-do-list">To-Do List</a></h2>
       <a href="https://raphaelalmeidamartins.github.io/to-do-list/"><img width="30%" src="https://gcdnb.pbrd.co/images/JUPrt1Q27DjU.png?o=1" alt="Project-preview" /></a>
       <br>
