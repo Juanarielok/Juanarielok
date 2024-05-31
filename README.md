@@ -185,4 +185,35 @@ Thank you for taking the time to get to know me!</p>
   </tr>
 </table>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cube of Boxes</title>
+<style>
+    table {
+        border-collapse: collapse;
+        margin: auto;
+    }
+    td {
+        width: 100px;
+        height: 100px;
+        border: 1px solid black;
+    }
+</style>
+</head>
+<body>
+<table>
+    <tr>
+        <td>Box 1</td>
+        <td>Box 2</td>
+    </tr>
+    <tr>
+        <td>Box 3</td>
+        <td>Box 4</td>
+    </tr>
+</table>
+</body>
+</html>
 
