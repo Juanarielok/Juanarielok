@@ -165,7 +165,7 @@ Thank you for taking the time to get to know me!</p>
 <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/to-do-list">To-Do List</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/to-do-list/"><img width="100%" src="https://gcdnb.pbrd.co/images/JUPrt1Q27DjU.png?o=1" alt="Project-preview" /></a>
+      <a href="https://raphaelalmeidamartins.github.io/to-do-list/"><img width="30%" src="https://gcdnb.pbrd.co/images/JUPrt1Q27DjU.png?o=1" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
