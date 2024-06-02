@@ -165,7 +165,7 @@ That's me!</P>
       <p>:brazil: Breve descrição em português</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Juanarielok/BarrioJardin-Pizzeria">Repository 2</a></h2>
+      <h2 align="center"><a href="https://github.com/Juanarielok/BarrioJardin-Pizzeria">Pizzeria Barrio Jardin</a></h2>
       <a href="https://github.com/Juanarielok/BarrioJardin-Pizzeria"><img width="100%" src="fortu.png" alt="Project-preview" /></a>
       <br>
       <br>
