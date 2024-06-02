@@ -163,7 +163,6 @@ That's me!</P>
            <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
       <p>:us: Brief description in English</p>
       <p>:brazil: Breve descrição em português</p>
-  
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/Juanarielok/BarrioJardin-Pizzeria">Repository 2</a></h2>
@@ -173,7 +172,6 @@ That's me!</P>
           <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
       <p>:us: Brief description in English</p>
       <p>:brazil: Breve descrição em português</p>
-     
     </td>
   </tr>
   <tr>
