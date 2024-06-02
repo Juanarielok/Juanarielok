@@ -156,8 +156,8 @@ That's me!</P>
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Juanarielok/repository1">FISH MANAGER beta</a></h2>
-      <a href="https://github.com/Juanarielok/repository1"><img width="100%" src="FISHMANAGER1.png" alt="Project-preview1" /></a>
+      <h2 align="center"><a href="https://github.com/Juanarielok/Fish-Manager-2021">FISH MANAGER beta</a></h2>
+      <a href="https://github.com/Juanarielok/Fish-Manager-2021"><img width="100%" src="FISHMANAGER1.png" alt="Project-preview1" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
