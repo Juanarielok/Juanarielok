@@ -157,7 +157,7 @@ That's me!</P>
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/Juanarielok/repository1">FISH MANAGER beta</a></h2>
-      <a href="https://github.com/Juanarielok/repository1"><img width="100%" src="https://pasteboard.co/CuNpn77Th4Lo.png" alt="Project-preview1" /></a>
+      <a href="https://github.com/Juanarielok/repository1"><img width="100%" src="https://camo.githubusercontent.com/403370bb0f7a310ee0ce4d008efdbeb2e58f2997a7bb0a249688ffd386fa97dd/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f333030" alt="Project-preview1" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
