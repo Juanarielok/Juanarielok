@@ -161,17 +161,17 @@ That's me!</P>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
-      <p>:us: Brief description in English</p>
-      <p>:brazil: Breve descrição em português</p>
+      <p>C#,XML</p>
+  
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Juanarielok/repository2">Repository 2</a></h2>
-      <a href="https://github.com/Juanarielok/repository2"><img width="100%" src="https://via.placeholder.com/300" alt="Project-preview" /></a>
+      <h2 align="center"><a href="https://github.com/Juanarielok/BarrioJardin-Pizzeria">Repository 2</a></h2>
+      <a href="https://github.com/Juanarielok/BarrioJardin-Pizzeria"><img width="100%" src="fortu.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
-      <p>:us: Brief description in English</p>
-      <p>:brazil: Breve descrição em português</p>
+      <p>React,Javascript, HTML, SCSS</p>
+     
     </td>
   </tr>
   <tr>
