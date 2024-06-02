@@ -164,8 +164,6 @@ That's me!</P>
       <p>:us: Brief description in English</p>
       <p>:brazil: Breve descrição em português</p>
     </td>
-
-    
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/Juanarielok/repository2">Repository 2</a></h2>
       <a href="https://github.com/Juanarielok/repository2"><img width="100%" src="https://via.placeholder.com/300" alt="Project-preview" /></a>
