@@ -153,3 +153,70 @@ That's me!</P>
 
 <h1 align="center">Main Projects</h1>
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/Juanarielok/repository1">Repository 1</a></h2>
+      <a href="https://github.com/Juanarielok/repository1"><img width="100%" src="https://via.placeholder.com/300" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
+      <p>:us: Brief description in English</p>
+      <p>:brazil: Breve descrição em português</p>
+    </td>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/Juanarielok/repository2">Repository 2</a></h2>
+      <a href="https://github.com/Juanarielok/repository2"><img width="100%" src="https://via.placeholder.com/300" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
+      <p>:us: Brief description in English</p>
+      <p>:brazil: Breve descrição em português</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/Juanarielok/repository3">Repository 3</a></h2>
+      <a href="https://github.com/Juanarielok/repository3"><img width="100%" src="https://via.placeholder.com/300" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
+      <p>:us: Brief description in English</p>
+      <p>:brazil: Breve descrição em português</p>
+    </td>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/Juanarielok/repository4">Repository 4</a></h2>
+      <a href="https://github.com/Juanarielok/repository4"><img width="100%" src="https://via.placeholder.com/300" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
+      <p>:us: Brief description in English</p>
+      <p>:brazil: Breve descrição em português</p>
+    </td>
+  </tr>
+</table>
+<br>
+
+![divider](https://via.placeholder.com/300)
+
+<h1 align="center">GitHub Statistics</h1>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=Juanarielok&count_private=true&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanarielok&layout=compact&theme=dracula&langs_count=10&hide=shell,less,dockerfile,jinja" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img align="center" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=Juanarielok&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+  <br>
+  <br>
+  <div>
+    <p>Profile views since 11/21/2021:</p>
+    <p><img alingn="center" src="https://profile-counter.glitch.me/Juanarielok/count.svg"></p>
+  </div>
+</div>
+
+
