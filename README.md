@@ -161,8 +161,8 @@ That's me!</P>
       <br>
       <br>
            <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
-      <p>:us: Brief description in English</p>
-      <p>:brazil: Breve descrição em português</p>
+     <p>C#, XML</p>
+      <p>The ultimate fish manager! Control your stock, types of seafood, freezers, customers and more! BETA VERSION </p>
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/Juanarielok/BarrioJardin-Pizzeria">Pizzeria Barrio Jardin</a></h2>
@@ -170,7 +170,7 @@ That's me!</P>
       <br>
       <br>
           <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
-      <p>:us: React, Javascript, HTML, SCSS, Node.js</p>
+      <p>React, Javascript, HTML, SCSS, Node.js</p>
       <p>A platform to manage deliveries more cheaper- WIP</p>
     </td>
   </tr>
@@ -181,8 +181,8 @@ That's me!</P>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
-      <p>:us: Brief description in English</p>
-      <p>:spanish: Breve descrição em português</p>
+     <p>React, Javascript, HTML, SCSS, Node.js</p>
+      <p>A platform to manage deliveries more cheaper- WIP</p>
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/Juanarielok/repository4">Repository 4</a></h2>
@@ -190,8 +190,8 @@ That's me!</P>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
-      <p>:us: Brief description in English</p>
-      <p>:brazil: Breve descrição em português</p>
+      <p>React, Javascript, HTML, SCSS, Node.js</p>
+      <p>A platform to manage deliveries more cheaper- WIP</p>
     </td>
   </tr>
 </table>
