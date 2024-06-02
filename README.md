@@ -160,8 +160,9 @@ That's me!</P>
       <a href="https://github.com/Juanarielok/Fish-Manager-2021"><img width="100%" src="FISHMANAGER1.png" alt="Project-preview1" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
-      <p>C#,XML</p>
+           <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
+      <p>:us: Brief description in English</p>
+      <p>:brazil: Breve descrição em português</p>
   
     </td>
     <td valign="top" width="50%">
@@ -169,8 +170,9 @@ That's me!</P>
       <a href="https://github.com/Juanarielok/BarrioJardin-Pizzeria"><img width="100%" src="fortu.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
-      <p>React,Javascript, HTML, SCSS</p>
+          <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
+      <p>:us: Brief description in English</p>
+      <p>:brazil: Breve descrição em português</p>
      
     </td>
   </tr>
