@@ -170,8 +170,8 @@ That's me!</P>
       <br>
       <br>
           <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
-      <p>:us: Brief description in English</p>
-      <p>:brazil: Breve descrição em português</p>
+      <p>:us: React, Javascript, HTML, SCSS, Node.js</p>
+     
     </td>
   </tr>
   <tr>
@@ -182,7 +182,7 @@ That's me!</P>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
       <p>:us: Brief description in English</p>
-      <p>:brazil: Breve descrição em português</p>
+      <p>:spanish: Breve descrição em português</p>
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/Juanarielok/repository4">Repository 4</a></h2>
