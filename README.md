@@ -171,7 +171,7 @@ That's me!</P>
       <br>
           <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
       <p>:us: React, Javascript, HTML, SCSS, Node.js</p>
-     
+      <p>A platform to manage deliveries more cheaper- WIP</p>
     </td>
   </tr>
   <tr>
