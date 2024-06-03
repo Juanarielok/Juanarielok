@@ -156,7 +156,7 @@ That's me!</P>
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Juanarielok/Fish-Manager-2021">FISH MANAGER beta</a></h2>
+      <h2 align="center"><a href="https://github.com/Juanarielok/Fish-Manager-2021">██▓▒­░⡷⠂𝙵𝙸𝚂𝙷 𝙼𝙰𝙽𝙰𝙶𝙴𝚁⠐⢾░▒▓██</a></h2>
       <a href="https://github.com/Juanarielok/Fish-Manager-2021"><img width="100%" src="FISHMANAGER1.png" alt="Project-preview1" /></a>
       <br>
       <br>
@@ -165,7 +165,7 @@ That's me!</P>
       <p>The ultimate fish manager! Control your stock, types of seafood, freezers, customers and more! BETA VERSION </p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Juanarielok/BarrioJardin-Pizzeria">Pizzeria Barrio Jardin</a></h2>
+      <h2 align="center"><a href="https://github.com/Juanarielok/BarrioJardin-Pizzeria">🄿🄸🅉🅉🄴🅁🄸🄰 "🄱🄰🅁🅁🄸🄾 🄹🄰🅁🄳🄸🄽"</a></h2>
       <a href="https://github.com/Juanarielok/BarrioJardin-Pizzeria"><img width="100%" src="fortu.png" alt="Project-preview" /></a>
       <br>
       <br>
@@ -176,7 +176,7 @@ That's me!</P>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Juanarielok/easyai">EasyAI</a></h2>
+      <h2 align="center"><a href="https://github.com/Juanarielok/easyai"> 𝐄𝐚𝐬𝐲 𝐀𝐈</a></h2>
       <a href="https://github.com/Juanarielok/easyai"><img width="100%" src="aie.png" alt="Project-preview" /></a>
       <br>
       <br>
@@ -185,7 +185,7 @@ That's me!</P>
       <p>Basically a "chatgpt" for students to summarize academic text, books and study material - WIP</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Juanarielok/repository4">Repository 4</a></h2>
+      <h2 align="center"><a href="https://github.com/Juanarielok/repository4">𝘾𝙊𝙈𝙐𝙉𝙄𝙏𝘼𝙍𝙄𝙊 𝓢𝓽𝓸𝓻𝓮</a></h2>
       <a href="https://github.com/Juanarielok/repository4"><img width="100%" src="comn.png" alt="Project-preview" /></a>
       <br>
       <br>
