@@ -176,13 +176,13 @@ That's me!</P>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Juanarielok/repository3">Repository 3</a></h2>
-      <a href="https://github.com/Juanarielok/repository3"><img width="100%" src="https://via.placeholder.com/300" alt="Project-preview" /></a>
+      <h2 align="center"><a href="https://github.com/Juanarielok/easyai">EasyAI</a></h2>
+      <a href="https://github.com/Juanarielok/easyai"><img width="100%" src="aie.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
-     <p>React, Javascript, HTML, SCSS, Node.js</p>
-      <p>A platform to manage deliveries more cheaper- WIP</p>
+     <p>React, Javascript, HTML, SCSS, Node.js, SQL, Jira, Figma</p>
+      <p>Basically a "chatgpt" for students to summarize academic text, books and study material - WIP</p>
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/Juanarielok/repository4">Repository 4</a></h2>
