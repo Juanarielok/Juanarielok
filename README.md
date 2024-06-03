@@ -165,7 +165,7 @@ That's me!</P>
       <p>The ultimate fish manager! Control your stock, types of seafood, freezers, customers and more! BETA VERSION </p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Juanarielok/BarrioJardin-Pizzeria">`✵•.¸,✵°✵.｡.✰ PIZZERIA "BARRIO JARDIN" ✰.｡.✵°✵,¸.•✵´</a></h2>
+      <h2 align="center"><a href="https://github.com/Juanarielok/BarrioJardin-Pizzeria">｡.✰ PIZZERIA "BARRIO JARDIN" ✰.｡</a></h2>
       <a href="https://github.com/Juanarielok/BarrioJardin-Pizzeria"><img width="100%" src="fortu.png" alt="Project-preview" /></a>
       <br>
       <br>
@@ -185,7 +185,7 @@ That's me!</P>
       <p>Basically a "chatgpt" for students to summarize academic text, books and study material - WIP</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Juanarielok/repository4">✵,¸.•✵𝘾𝙊𝙈𝙐𝙉𝙄𝙏𝘼𝙍𝙄𝙊 𝓢𝓽𝓸𝓻𝓮✵,¸.•✵</a></h2>
+      <h2 align="center"><a href="https://github.com/Juanarielok/repository4">✵✵𝘾𝙊𝙈𝙐𝙉𝙄𝙏𝘼𝙍𝙄𝙊 𝓢𝓽𝓸𝓻𝓮✵✵</a></h2>
       <a href="https://github.com/Juanarielok/repository4"><img width="100%" src="comn.png" alt="Project-preview" /></a>
       <br>
       <br>
