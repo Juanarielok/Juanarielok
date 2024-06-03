@@ -171,7 +171,7 @@ That's me!</P>
       <br>
           <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
       <p>React, Javascript, HTML, SCSS, Node.js</p>
-      <p>A platform to manage deliveries more cheaper- WIP</p>
+      <p>Presenting an innovative platform designed to optimize delivery management, promising not only enhanced efficiency but also significant cost savings. Currently a work in progress, stay tuned for its grand unveiling! - WIP</p>
     </td>
   </tr>
   <tr>
