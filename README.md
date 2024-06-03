@@ -186,12 +186,12 @@ That's me!</P>
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/Juanarielok/repository4">Repository 4</a></h2>
-      <a href="https://github.com/Juanarielok/repository4"><img width="100%" src="https://via.placeholder.com/300" alt="Project-preview" /></a>
+      <a href="https://github.com/Juanarielok/repository4"><img width="100%" src="comn.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> Tools and methodologies used for this project</em></p>
       <p>React, Javascript, HTML, SCSS, Node.js</p>
-      <p>A platform to manage deliveries more cheaper- WIP</p>
+      <p>A platform that will help the producers and consumers avoid intermediaries and innecesary taxes, this project it's going to bring a HUGE change - WIP</p>
     </td>
   </tr>
 </table>
