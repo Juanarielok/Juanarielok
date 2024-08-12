@@ -1,8 +1,8 @@
 
 ![I am Software Engineer](https://gcdnb.pbrd.co/images/NBqt8bXzPfgd.png?o=1)
 
-
-```JavaScript
+<pre> 
+JavaScript
 const aboutMe = {
   name: 'Juan Ariel Ortiz Iacampo',
   age: '25 years old';
@@ -13,10 +13,12 @@ const aboutMe = {
   ]
 };
 
+ 
+
 function contatcMe() {
   return 'Linkedin: https://www.linkedin.com/in/juan-ariel-ortiz-/ ';
 }
-```
+  </pre>
 
 
 
