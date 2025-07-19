@@ -47,7 +47,7 @@
 
 
 
-<h1 align="center">GitHub Statistics</h1>
+<h1 align="center"></h1>
 
 
 </div>
